@@ -446,11 +446,11 @@ Meu foco está na construção de soluções que combinem:
 ## Contato
 
 <p>
-  <a href="SEU_LINKEDIN_AQUI">
+  <a href="(https://www.linkedin.com/in/jo%C3%A3o-viana-0b6096246/)">
     <img src="https://img.shields.io/badge/LinkedIn-João%20Viana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
-  <a href="mailto:SEU_EMAIL_AQUI">
+  <a href="">
     <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
   </a>
 
