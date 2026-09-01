@@ -446,7 +446,7 @@ Meu foco está na construção de soluções que combinem:
 ## Contato
 
 <p>
-  <a href="(https://www.linkedin.com/in/jo%C3%A3o-viana-0b6096246/)">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-viana-0b6096246/">
     <img src="https://img.shields.io/badge/LinkedIn-João%20Viana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
