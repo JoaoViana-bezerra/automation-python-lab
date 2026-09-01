@@ -1,0 +1,14 @@
+﻿id;nome;email;telefone;cidade;estado;data_cadastro;valor_compras;status
+1;  ana lima  ;ANA.LIMA@EMAIL.COM ;(98) 99999-1001;sao luis;ma;01/01/2026;1.250,50;ativo
+2;BRUNO costa;bruno.costa@email.com;98 98888-2002;São Luís;MA;2026-01-03;850.00;ATIVO
+3;carla souza;carla.souza@email.com ;98977773003;imperatriz;Maranhão;05-01-2026;2.100,90;ativo 
+4;diego rocha;diego.rocha@email;(98) 96666-4004;sao jose de ribamar;ma;07/01/2026;450,00;inativo
+5;;fernanda@email.com;;paço do lumiar;MA;08/01/2026;;ativo
+6;Gabriel Alves;gabriel@email.com;(98)99999-6006;SÃO LUÍS;ma;09/01/2026;3200;ativo
+6;Gabriel Alves;gabriel@email.com;(98)99999-6006;SÃO LUÍS;ma;09/01/2026;3200;ativo
+7; helena silva;helena.silva@email.com;98955557007;bacabal;MA;10/01/2026;-150;ativo
+8;Igor Mendes;igor.mendes@email.com;98-94444-8008;Caxias;ma;11/01/2026;1,599.90;pendente
+9;JOANA PEREIRA;joana.pereira@email.com;(98) 93333-9009;timon;MA;12/01/2026;999,99;Ativo
+10;kaua santos;kaua.santos@email.com;98922221010;são luís;ma;13/01/2026;1200,00;
+11;lucas martins;lucas.martins@email.com ;(98) 91111-1111;imperatriz ;MA;14/01/2026;R$ 2.450,00;ativo
+12;maria oliveira;maria.oliveira@email.com;(98) 90000-1212;São Luís;MA;31/02/2026;780,20;ativo

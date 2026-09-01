@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Generated output
+output/*.json
+output/*.csv
+output/*.xlsx
+
+# Logs
+logs/*.log
+
+# OS
+.DS_Store
+Thumbs.db

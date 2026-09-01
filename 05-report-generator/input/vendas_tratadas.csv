@@ -1,0 +1,61 @@
+﻿pedido;data;vendedor;regiao;produto;categoria;quantidade;receita_liquida;status
+PED-2001;2026-01-13;Ana Lima;Sul;Mouse Wireless;Acessórios;2;269.82;Pendente
+PED-2002;2026-05-10;Bruno Costa;Norte;Notebook Pro 14;Informática;3;14699.7;Cancelado
+PED-2003;2026-03-03;Ana Lima;Sul;Notebook Pro 14;Informática;4;19599.6;Pendente
+PED-2004;2026-02-27;Fernanda Alves;Norte;Teclado Mecânico;Acessórios;1;329.9;Cancelado
+PED-2005;2026-02-26;Ana Lima;Sul;Cadeira Office;Mobiliário;5;6499.5;Pendente
+PED-2006;2026-05-19;Ana Lima;Sul;Monitor 27;Informática;3;4199.7;Pendente
+PED-2007;2026-05-29;Fernanda Alves;Nordeste;Mouse Wireless;Acessórios;5;749.5;Concluído
+PED-2008;2026-01-17;Fernanda Alves;Norte;Mouse Wireless;Acessórios;1;134.91;Cancelado
+PED-2009;2026-05-17;Diego Rocha;Centro-Oeste;Cadeira Office;Mobiliário;2;2339.82;Pendente
+PED-2010;2026-03-18;Bruno Costa;Nordeste;Teclado Mecânico;Acessórios;5;1567.02;Pendente
+PED-2011;2026-05-15;Diego Rocha;Centro-Oeste;Monitor 27;Informática;1;1329.9;Cancelado
+PED-2012;2026-01-31;Fernanda Alves;Sudeste;Teclado Mecânico;Acessórios;3;989.7;Cancelado
+PED-2013;2026-04-18;Ana Lima;Norte;Monitor 27;Informática;3;3989.72;Concluído
+PED-2014;2026-06-27;Carla Souza;Sul;Cadeira Office;Mobiliário;5;6174.52;Concluído
+PED-2015;2026-01-24;Carla Souza;Sudeste;Teclado Mecânico;Acessórios;5;1649.5;Pendente
+PED-2016;2026-05-28;Diego Rocha;Centro-Oeste;Notebook Pro 14;Informática;1;4409.91;Concluído
+PED-2017;2026-04-01;Bruno Costa;Sul;Teclado Mecânico;Acessórios;3;940.21;Concluído
+PED-2018;2026-07-16;Carla Souza;Nordeste;Notebook Pro 14;Informática;4;19599.6;Concluído
+PED-2019;2026-01-21;Bruno Costa;Sudeste;Monitor 27;Informática;4;5319.62;Pendente
+PED-2020;2026-07-29;Diego Rocha;Sul;Teclado Mecânico;Acessórios;5;1649.5;Concluído
+PED-2021;2026-04-08;Bruno Costa;Nordeste;Mouse Wireless;Acessórios;4;539.64;Concluído
+PED-2022;2026-06-18;Bruno Costa;Norte;Notebook Pro 14;Informática;2;9799.8;Concluído
+PED-2023;2026-03-14;Ana Lima;Nordeste;Teclado Mecânico;Acessórios;5;1567.02;Concluído
+PED-2024;2026-05-25;Carla Souza;Nordeste;Teclado Mecânico;Acessórios;5;1484.55;Concluído
+PED-2025;2026-07-19;Fernanda Alves;Sudeste;Cadeira Office;Mobiliário;5;6174.52;Concluído
+PED-2026;2026-05-04;Diego Rocha;Norte;Teclado Mecânico;Acessórios;4;1319.6;Pendente
+PED-2027;2026-02-11;Ana Lima;Centro-Oeste;Monitor 27;Informática;1;1329.9;Concluído
+PED-2028;2026-05-26;Bruno Costa;Sul;Cadeira Office;Mobiliário;1;1299.9;Concluído
+PED-2029;2026-01-19;Bruno Costa;Sul;Notebook Pro 14;Informática;3;14699.7;Cancelado
+PED-2030;2026-06-04;Carla Souza;Sudeste;Teclado Mecânico;Acessórios;2;626.81;Concluído
+PED-2031;2026-05-03;Diego Rocha;Centro-Oeste;Notebook Pro 14;Informática;1;4654.9;Pendente
+PED-2032;2026-03-29;Carla Souza;Sudeste;Notebook Pro 14;Informática;2;8819.82;Concluído
+PED-2033;2026-05-16;Carla Souza;Nordeste;Monitor 27;Informática;5;6999.5;Concluído
+PED-2034;2026-06-14;Ana Lima;Centro-Oeste;Cadeira Office;Mobiliário;1;1234.9;Cancelado
+PED-2035;2026-07-17;Bruno Costa;Sul;Cadeira Office;Mobiliário;3;3704.72;Concluído
+PED-2036;2026-02-27;Fernanda Alves;Nordeste;Cadeira Office;Mobiliário;5;5849.55;Concluído
+PED-2037;2026-05-13;Diego Rocha;Centro-Oeste;Monitor 27;Informática;4;5599.6;Concluído
+PED-2038;2026-03-08;Bruno Costa;Sul;Notebook Pro 14;Informática;1;4654.9;Concluído
+PED-2039;2026-01-21;Bruno Costa;Norte;Mouse Wireless;Acessórios;4;569.62;Concluído
+PED-2040;2026-02-22;Diego Rocha;Sul;Monitor 27;Informática;4;5319.62;Concluído
+PED-2041;2026-03-30;Ana Lima;Norte;Cadeira Office;Mobiliário;1;1169.91;Pendente
+PED-2042;2026-04-22;Carla Souza;Norte;Teclado Mecânico;Acessórios;2;659.8;Pendente
+PED-2043;2026-01-22;Bruno Costa;Nordeste;Teclado Mecânico;Acessórios;4;1187.64;Pendente
+PED-2044;2026-04-30;Bruno Costa;Sul;Monitor 27;Informática;1;1259.91;Concluído
+PED-2045;2026-05-21;Fernanda Alves;Nordeste;Cadeira Office;Mobiliário;4;5199.6;Concluído
+PED-2046;2026-07-11;Bruno Costa;Sudeste;Notebook Pro 14;Informática;1;4409.91;Concluído
+PED-2047;2026-02-24;Carla Souza;Sul;Monitor 27;Informática;2;2659.81;Concluído
+PED-2048;2026-05-20;Diego Rocha;Nordeste;Monitor 27;Informática;5;6649.52;Concluído
+PED-2049;2026-05-30;Fernanda Alves;Sudeste;Notebook Pro 14;Informática;3;13229.73;Pendente
+PED-2050;2026-05-15;Fernanda Alves;Norte;Cadeira Office;Mobiliário;2;2599.8;Cancelado
+PED-2051;2026-07-18;Bruno Costa;Nordeste;Teclado Mecânico;Acessórios;2;659.8;Cancelado
+PED-2052;2026-01-31;Fernanda Alves;Norte;Monitor 27;Informática;4;5039.64;Cancelado
+PED-2053;2026-05-04;Ana Lima;Sul;Mouse Wireless;Acessórios;5;674.55;Cancelado
+PED-2054;2026-01-11;Ana Lima;Sul;Notebook Pro 14;Informática;2;9309.81;Concluído
+PED-2055;2026-04-24;Carla Souza;Sul;Teclado Mecânico;Acessórios;5;1649.5;Concluído
+PED-2056;2026-06-27;Carla Souza;Sudeste;Cadeira Office;Mobiliário;5;6499.5;Cancelado
+PED-2057;2026-03-05;Fernanda Alves;Centro-Oeste;Cadeira Office;Mobiliário;5;5849.55;Pendente
+PED-2058;2026-04-17;Ana Lima;Sudeste;Cadeira Office;Mobiliário;2;2599.8;Pendente
+PED-2059;2026-03-03;Diego Rocha;Norte;Teclado Mecânico;Acessórios;3;890.73;Concluído
+PED-2060;2026-07-03;Carla Souza;Nordeste;Monitor 27;Informática;3;4199.7;Concluído
